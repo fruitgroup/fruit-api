@@ -1,12 +1,5 @@
-composer.lock
-
-runtime/*
-
-public/docs
-
-public/uploads
-
-gitc
-
-.idea/
+/vendor
+/.idea
+Homestead.json
+Homestead.yaml
 .env
